@@ -1,0 +1,4 @@
+set selection-clipboard clipboard
+include catppuccin-frappe
+set font 'monospace normal 12'
+set scroll-step 100
